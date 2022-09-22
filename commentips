@@ -1,0 +1,4 @@
+ne pas oublier de fix les signaux avant de push à 42
+ne pas oublier de revérifier la norme avant de push
+demander pour les quotes et cas atypiques
+Fix export ajout sans = (doit agir comme le bash, ne pas suppr)
